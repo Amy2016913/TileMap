@@ -1,0 +1,190 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,Ground_png,0034_png,0034_2_png,BackGround_jpg,grass_top_png,stone_png,stonebrick_png,stonebrick_cracked_png,stonebrick_mossy_png,gold_ore_png,leaves_spruce_opaque_png,mycelium_top_png,diamond_ore_png,furnace_side_png,待机1_png,待机2_png,待机3_png,待机4_png,grass_png,右跑1_png,右跑2_png,右跑3_png,右跑4_png,右跑5_png,右跑6_png,右跑7_png,左跑1_png,左跑2_png,左跑3_png,左跑4_png,左跑5_png,左跑6_png,左跑7_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "Ground_png",
+			"type": "image",
+			"url": "assets/Ground.png"
+		},
+		{
+			"name": "0034_png",
+			"type": "image",
+			"url": "assets/0034.png"
+		},
+		{
+			"name": "0034_2_png",
+			"type": "image",
+			"url": "assets/0034_2.png"
+		},
+		{
+			"name": "BackGround_jpg",
+			"type": "image",
+			"url": "assets/BackGround.jpg"
+		},
+		{
+			"name": "grass_top_png",
+			"type": "image",
+			"url": "assets/grass_top.png"
+		},
+		{
+			"name": "stone_png",
+			"type": "image",
+			"url": "assets/stone.png"
+		},
+		{
+			"name": "stonebrick_png",
+			"type": "image",
+			"url": "assets/stonebrick.png"
+		},
+		{
+			"name": "stonebrick_cracked_png",
+			"type": "image",
+			"url": "assets/stonebrick_cracked.png"
+		},
+		{
+			"name": "stonebrick_mossy_png",
+			"type": "image",
+			"url": "assets/stonebrick_mossy.png"
+		},
+		{
+			"name": "gold_ore_png",
+			"type": "image",
+			"url": "assets/gold_ore.png"
+		},
+		{
+			"name": "leaves_spruce_opaque_png",
+			"type": "image",
+			"url": "assets/leaves_spruce_opaque.png"
+		},
+		{
+			"name": "mycelium_top_png",
+			"type": "image",
+			"url": "assets/mycelium_top.png"
+		},
+		{
+			"name": "diamond_ore_png",
+			"type": "image",
+			"url": "assets/diamond_ore.png"
+		},
+		{
+			"name": "furnace_side_png",
+			"type": "image",
+			"url": "assets/furnace_side.png"
+		},
+		{
+			"name": "待机1_png",
+			"type": "image",
+			"url": "assets/待机1.png"
+		},
+		{
+			"name": "待机2_png",
+			"type": "image",
+			"url": "assets/待机2.png"
+		},
+		{
+			"name": "待机3_png",
+			"type": "image",
+			"url": "assets/待机3.png"
+		},
+		{
+			"name": "待机4_png",
+			"type": "image",
+			"url": "assets/待机4.png"
+		},
+		{
+			"name": "grass_png",
+			"type": "image",
+			"url": "assets/grass.png"
+		},
+		{
+			"name": "右跑1_png",
+			"type": "image",
+			"url": "assets/右跑1.png"
+		},
+		{
+			"name": "右跑2_png",
+			"type": "image",
+			"url": "assets/右跑2.png"
+		},
+		{
+			"name": "右跑3_png",
+			"type": "image",
+			"url": "assets/右跑3.png"
+		},
+		{
+			"name": "右跑4_png",
+			"type": "image",
+			"url": "assets/右跑4.png"
+		},
+		{
+			"name": "右跑5_png",
+			"type": "image",
+			"url": "assets/右跑5.png"
+		},
+		{
+			"name": "右跑6_png",
+			"type": "image",
+			"url": "assets/右跑6.png"
+		},
+		{
+			"name": "右跑7_png",
+			"type": "image",
+			"url": "assets/右跑7.png"
+		},
+		{
+			"name": "左跑1_png",
+			"type": "image",
+			"url": "assets/左跑1.png"
+		},
+		{
+			"name": "左跑2_png",
+			"type": "image",
+			"url": "assets/左跑2.png"
+		},
+		{
+			"name": "左跑3_png",
+			"type": "image",
+			"url": "assets/左跑3.png"
+		},
+		{
+			"name": "左跑4_png",
+			"type": "image",
+			"url": "assets/左跑4.png"
+		},
+		{
+			"name": "左跑5_png",
+			"type": "image",
+			"url": "assets/左跑5.png"
+		},
+		{
+			"name": "左跑6_png",
+			"type": "image",
+			"url": "assets/左跑6.png"
+		},
+		{
+			"name": "左跑7_png",
+			"type": "image",
+			"url": "assets/左跑7.png"
+		}
+	]
+}
